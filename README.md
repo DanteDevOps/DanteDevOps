@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dante Vetony
 
-<!--
-**DanteDevOps/DanteDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solution engineer working where **operational technology (OT) meets AI**.
 
-Here are some ideas to get you started:
+15 years in industrial automation — SCADA systems, PLC/BMS integration, and
+industrial data flows. Currently focused on bringing AI tooling into real
+plants and buildings: safely, incrementally, and without breaking production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **SCADA / HMI:** Kiona Web Port, WebIQ, AVEVA
+- **Control & field:** PLC and BMS systems, I/O engineering
+- **Integration:** REST APIs, Node-RED, Python
+- **AI:** LLM-assisted engineering workflows for OT documentation and design
+
+## Selected work
+- [node-red-contrib-webiq](https://github.com/DanteDevOps/node-red-contrib-webiq) — Node-RED nodes for the WebIQ industrial HMI
+- [NJServerLogDown](https://github.com/DanteDevOps/NJServerLogDown) — small Node.js service for WebIQ log retrieval
+
+## Elsewhere
+- Writing: [dantevetony.com](https://dantevetony.com)
+- X: [@Dante_Vetony](https://x.com/Dante_Vetony)
+
+📍 Malmö, Sweden
