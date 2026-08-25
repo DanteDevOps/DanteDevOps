@@ -20,4 +20,4 @@ plants and buildings: safely, incrementally, and without breaking production.
 - Writing: [dantevetony.com](https://dantevetony.com)
 - X: [@Dante_Vetony](https://x.com/Dante_Vetony)
 
-📍 Malmö, Sweden
+📍 Sweden
