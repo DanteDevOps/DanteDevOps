@@ -6,13 +6,13 @@ Solution engineer working where **operational technology (OT) meets AI**.
 industrial data flows. Currently focused on bringing AI tooling into real
 plants and buildings: safely, incrementally, and without breaking production.
 
-🔧 Now building: turning my [OPC UA simulator](https://github.com/DanteDevOps/OPCUA_Simulator_mini) into a full plant simulator, with labeled-dataset export for ML work.
+Now building: turning my [OPC UA simulator](https://github.com/DanteDevOps/OPCUA_Simulator_mini) into a full plant simulator, with labeled-dataset export for ML work.
 
 ## What I work with
 
-- **SCADA / HMI:** Kiona Web Port, WebIQ, AVEVA
-- **Control & field:** PLC and BMS systems, I/O engineering
-- **Integration:** REST APIs, Node-RED, Python
+- **SCADA / HMI:** AVEVA System Platform, WebIQ (Smart HMI / Beijer), Kiona Web Port, FUXA
+- **Control & field:** Major PLC brands and BMS systems
+- **Integration:** REST APIs, WebSockets, Node-RED, Python, Docker
 - **AI:** LLM-assisted engineering workflows for OT documentation and design
 
 ## Selected work
