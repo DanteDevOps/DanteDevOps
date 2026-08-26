@@ -2,7 +2,7 @@
 
 Solution engineer working where **operational technology (OT) meets AI**.
 
-15 years in industrial automation — SCADA systems, PLC/BMS integration, and
+15 years in industrial automation - SCADA systems, PLC/BMS integration, and
 industrial data flows. Currently focused on bringing AI tooling into real
 plants and buildings: safely, incrementally, and without breaking production.
 
@@ -13,8 +13,8 @@ plants and buildings: safely, incrementally, and without breaking production.
 - **AI:** LLM-assisted engineering workflows for OT documentation and design
 
 ## Selected work
-- [node-red-contrib-webiq](https://github.com/DanteDevOps/node-red-contrib-webiq) — Node-RED nodes for the WebIQ industrial HMI
-- [NJServerLogDown](https://github.com/DanteDevOps/NJServerLogDown) — small Node.js service for WebIQ log retrieval
+- [node-red-contrib-webiq](https://github.com/DanteDevOps/node-red-contrib-webiq) - Node-RED nodes for the WebIQ industrial HMI
+- [NJServerLogDown](https://github.com/DanteDevOps/NJServerLogDown) - small Node.js service for WebIQ log retrieval
 
 ## Elsewhere
 - Writing: [dantevetony.com](https://dantevetony.com)
